@@ -4,6 +4,9 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white) 
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) 
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
 
 ### Introduction 
 
@@ -19,8 +22,6 @@
     * Coordinate scheduling & duty assignments for 8-20 or more) seasonal, part-time, & full-time farm hands.
     * Coordinate scheduling & duty assignments for household & caregiver staff & service providers (3 service providers: 4-6 semi-skilled workers, 2-3 professional providers (RN, LPN, & PT).
     * Budgeting & general financial & asset management for both the household & businesses.
-
-Robbie![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github) ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
     * Evaluated, selected & implemented the appropriate management tools & provided instruction & training on proper use.
     * Scheduling & transportation, coordination with external service providers. 
     * Medication reconciliation, encourage compliance with prescribed treatments, therapies, & diet, etc.
