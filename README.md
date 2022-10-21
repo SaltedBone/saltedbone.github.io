@@ -1,12 +1,14 @@
-Robbie T. 
+Robbie T.
 saltedbone.github.io
 saltedrob@gmail.com 
 
-Innovative & logically-minded team-player with a diverse technical skill set, currently looking corporate partner who can benefit from an extensive & diverse array of experience & skills. Thrives when presented with new & difficult challenges.
+### Introduction 
 
-Experience 
+#### Innovative & logically-minded team-player with a diverse technical skill set, currently looking for a position in a corporate environment where my diverse array of experience & skills is is stretched to its limits daily.
 
-Personal Assistant & Business Manager. Camelot Farms, Abbeville SC. 1/2020-Present
+### Experience 
+
+#### Personal Assistant & Business Manager. Camelot Farms, Abbeville SC. 1/2020-Present
 
     * Primary responsibilities include: to facilitate operational continuity of an unincorporated family farm, to assist the client & her heirs during the incorporation & entrustment (ownership transfer to a perpetual trust) of her estate.
     * USDA & SC Farm Bill compliance.
@@ -21,7 +23,7 @@ Personal Assistant & Business Manager. Camelot Farms, Abbeville SC. 1/2020-Prese
     * Assisted client's transition into Long Term Care, including screening facilities, the admission process, etc.
 
 
-(On-site) Logistics Coordinator & Shift Leader. Land-Air (3rd party inbound logistics provider for Colgate-Palmolive) Hodges, SC. 4/19-2/21
+#### (On-site) Logistics Coordinator & Shift Leader. Land-Air (3rd party inbound logistics provider for Colgate-Palmolive) Hodges, SC. 4/19-2/21
 
     * ACCOMPLISHMENT: Created a Google Workplace Apps Script Automation & accompanying SAP GUI script to automate the search & retrieval of required documents & for SAP, automated the document capture & release to production workflows. The previous processes was entirely manual & paper-based, & prone to error, plus had produced a backlogged of over 4 months with 160 *rented* trailers & shipping containers sitting on the yard waiting to be unloaded. With my automation, one confirmed, a shipment could be released into production in under 2 minutes if all the required docs were found, if not, the Apos script would email the necessary details to our contact at the supplier & email designated personnel at Colgate-Palmolive & Land-Air & as well as update related spreadsheets, reports, progress charts, etc.
     * Communication & coordination (via email, Hangouts/Meet, phone, etc) between suppliers & production team to include continuous process improvement discussions (as above), orders & backorders, scheduling, etc.
@@ -31,8 +33,8 @@ Personal Assistant & Business Manager. Camelot Farms, Abbeville SC. 1/2020-Prese
     * Provide clear & concise communication of all important events between shifts & among impacted parties or stakeholders as authorized. 
     * Documentation & communication of staffing issues across shifts. Ensuring that night shift employees receive the appropriate training, coaching, & recognition for their achievements from management. Also, to ensure that disciplinary policies are enforced by management & don't go unnoticed due to their absence on 3rd shift. 
 
-Multiple Positions. Starlite Corporation, Clinton SC. 8/14-4/19
-Inspector/Packer, Picker, Outbound Loader, Scrap Captain, Alternate Quality Inspector & Alternate Trainer, Break Relief.
+#### Multiple Positions. Starlite Corporation, Clinton SC. 8/14-4/19
+#### Inspector/Packer, Picker, Outbound Loader, Scrap Captain, Alternate Quality Inspector & Alternate Trainer, Break Relief.
 
     * Rapidly advanced throughout multiple positions.
     * High speed injection molding plastics manufacturing.
