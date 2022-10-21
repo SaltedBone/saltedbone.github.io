@@ -1,7 +1,5 @@
 Robbie T.
-
 saltedbone.github.io
-
 saltedrob@gmail.com 
 
 ### Introduction 
