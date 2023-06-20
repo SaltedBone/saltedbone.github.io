@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SaltedBone - Consulting and Design</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to SaltedBone</h1>
+        <p>We are a consulting and design company.</p>
+    </header>
+    <main>
+        <!-- Add your content here -->
+    </main>
+    <footer>
+        <p>© 2023 SaltedBone</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
