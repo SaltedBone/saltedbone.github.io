@@ -1,0 +1,58 @@
+document.querySelectorAll('a[href^=\"#\"]').forEach(anchor => {
+anchor.addEventListener('click', function (e) {
+e.preventDefault();
+document.querySelector(this.getAttribute('href')).scrollIntoView({
+behavior: 'smooth'
+});
+});
+});
+
+var form = document.querySelector('form');
+form.addEventListener('submit', function(e) {
+var isValid = true;
+var inputs = form.querySelectorAll('input, textarea');
+inputs.forEach(function(input) {
+if (!input.value) {
+isValid = false;
+input.style.borderColor = 'red';
+} else {
+input.style.borderColor = '';
+}
+});
+if (!isValid) {
+e.preventDefault();
+alert('Please fill out all fields.');
+}
+});
+
+var backToTopButton = document.querySelector('#back-to-top-btn');
+window.addEventListener('scroll', scrollFunction);
+
+function scrollFunction() {
+if (window.pageYOffset > 300) { // Show backToTopButton
+if(!backToTopButton.classList.contains('btnEntrance')) {
+backToTopButton.classList.remove('btnExit');
+backToTopButton.classList.add('btnEntrance');
+backToTopButton.style.display = 'block';
+}
+} else { // Hide backToTopButton
+if(backToTopButton.classList.contains('btnEntrance')) {
+backToTopButton.classList.remove('btnEntrance');
+backToTopButton.classList.add('btnExit');
+setTimeout(function() {
+backToTopButton.style.display = 'none';
+}, 250);
+}
+}
+}
+
+backToTopButton.addEventListener('click', smoothScrollBackToTop);
+
+// function back to top
+function smoothScrollBackToTop() {
+var currentScroll = document.documentElement.scrollTop || document.body.scrollTop;
+if (currentScroll > 0) {
+window.requestAnimationFrame(smoothScrollBackToTop);
+window.scrollTo (0,currentScroll - (currentScroll/5));
+}
+}
